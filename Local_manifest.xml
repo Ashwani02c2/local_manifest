@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="gitty" fetch="https://github.com"/>
+  <remote name="Ashwani02c2" fetch="https://github.com"/>
 
   <project name="LineageOS/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="gitty" revision="lineage-18.1" />
   <project name="LineageOS/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="gitty" revision="lineage-18.1" />
