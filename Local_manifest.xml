@@ -4,7 +4,7 @@
 
   <project name="Ashwani02c2/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="Ashwani02c2" revision="Nusantara-11" />
   <project name="Ashwani02c2/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="Ashwani02c2" revision="lineage-18.1" />
-  <project name="Ashwani02c2/android_hardware_samsung" path="hardware/samsung" remote="Ashwani02c2" revision="lineage-18.1" />
+  <project name="Ashwani02c2/android_hardware_samsung" path="hardware/samsung" remote="Ashwani02c2" revision="Aosp-11.0" />
   <project name="Ashwani02c2/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="Ashwani02c2" revision="lineage-18.1" />
   <project name="Ashwani02c2/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="Ashwani02c2" revision="lineage-18.1" />
   <project name="Ashwani02c2/android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="Ashwani02c2" revision="lineage-18.1" />
