@@ -10,7 +10,7 @@
   <project name="Ashwani02c2/android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="Ashwani02c2" revision="lineage-18.1" />
   <project name="Ashwani02c2/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="Ashwani02c2" revision="lineage-18.1" />
   <project name="Ashwani02c2/android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="Ashwani02c2" revision="lineage-18.1" />
-  <project name="Ashwani02c2/proprietary_vendor_samsung" path="vendor/samsung" remote="FlominatorGD" revision="lineage-18.1" />
+  <project name="Ashwani02c2/proprietary_vendor_samsung" path="vendor/samsung" remote="Ashwani02c2" revision="lineage-18.1" />
 </manifest>
 
 
